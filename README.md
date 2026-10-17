@@ -1,3 +1,13 @@
+## About this fork
+
+This is a development fork of [pyvista/pyvista](https://github.com/pyvista/pyvista), the Python library for 3D visualization and mesh analysis. Its NumPy-oriented datasets, filters, and plotting tools help explore point clouds, surfaces, and volumes, with workflows spanning notebooks, scripts, and applications. Typical tasks include slicing a volume, inspecting a mesh, or comparing several views of a dataset.
+
+The fork's [upstream PR #9432](https://github.com/pyvista/pyvista/pull/9432) proposes a multi-renderer example for actor cleanup. It was open on 17 October 2026 and is tracked on the linked feature branch.
+
+Start with the [official getting-started guide](https://docs.pyvista.org/getting-started/) and [examples gallery](https://docs.pyvista.org/examples/index.html). [Compare the default branch with upstream](https://github.com/jdotc1/pyvista/compare/pyvista:main...jdotc1:main). The original README, community attribution, installation guidance, and research citation follow.
+
+---
+
 <p align="center">
   <img src="https://github.com/pyvista/pyvista/raw/main/doc/source/_static/pyvista_logo.svg" alt="PyVista" width="400" />
 </p>
